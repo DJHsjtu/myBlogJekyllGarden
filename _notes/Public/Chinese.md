@@ -1,5 +1,5 @@
 ---
-title: 中文
+title: Chinese
 date: 12-10-2023
 feed: show
 ---
