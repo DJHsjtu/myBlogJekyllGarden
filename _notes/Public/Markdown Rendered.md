@@ -9,7 +9,7 @@ This page contains a quick reference to all markdown properties. 90% of this was
 By the way, how did you reach this page?  
 From backlink under [[Hidden Note]] or from feed, along with [[Welcome to the garden]]?
 
-[[Chinese]]
+[[Chinese 中文]]
 
 * TOC
 {:toc}
